@@ -8,3 +8,11 @@ Saya Sedang mengikuti Program Coding Camp **Bank DBS X DIcoding** [Sertifikasi d
 Saya juga memiliki gelar Sarjana Komputer di Institut Teknologi Dan Bisnis Bina Sarana Global.<br>
 
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](www.linkedin.com/in/ahmad-aliyyu-akbar-b271a8328)ku yaa
+
+### Github Statistic
+<p align="left">
+<a href="https://github.com/ahmadaliyyu">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=penuliscode&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ahmadaliyyu&layout=compact&theme=algolia"/>
+</a>
+</p>
